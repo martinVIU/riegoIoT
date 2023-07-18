@@ -21,3 +21,5 @@ Por su parte la aplicación PHP permite llevar un control de las mediciones reci
 En caso de que la parcela se encuentre en España, se muestra la predicción metereológica de la AEMET, y si se encuentra dentro del territorio de Galicia, se muestra a mayores la predicción de MeteoGalicia.
 
 Para poder utilizar la aplicacón hay que rellenar el fichero de configuración de la base de datos a utilizar, situado en "cfg/pdoconfig.php" dentro del directorio de la aplicación PHP, y la API_KEY de AEMET, situada en "Controller/aemet/apikey.php", obtenible en la web https://opendata.aemet.es/centrodedescargas/obtencionAPIKey
+
+Video del prototipo en funcionamiento: https://youtu.be/8qh5mUIiYXw
